@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(19, 29, 36);
+    font-family: sans-serif;
+}
+.team-container{
+    width: 100%;
+    height: auto;
+}
+.text{
+    color: aqua;
+    font-size: 25px;
+    font-weight: 550;
+    text-transform: uppercase;
+    text-align: center;
+}
+.row{
+    width: 60;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-items: center;
+    justify-content: center;
+}
